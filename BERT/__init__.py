@@ -1,1 +1,1 @@
-
+from .bert import Model
